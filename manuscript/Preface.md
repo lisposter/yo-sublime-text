@@ -4,6 +4,8 @@
 
 当我们谈起「编辑器」，历史悠久的VI/VIM，被称之为「捆绑了一个操作系统的编辑器」的EMACS总是会不约而同出现。然后，抛开这两个久负盛名的编辑器王者，多年来，各种编辑器早已如雨后春笋般出现。风靡一时的TextMate，独领风骚的Notepad++，新锐Brackets等数不胜数。在一次偶然的机会，我发现了这个叫做Sublime Text的编辑器，自打开它的那一天起，它便成了我日常使用的主力编辑器，一直到现在。
 
+对于Sublime Text的背后故事，Jon Skinner 曾经为了打造「更好用的文本编辑器」而放弃了在Google的开发工作。并在2007年做出了Sublime Text的第一版。那时候，Sublime Text的雏形便已经出来了。而Sublime Text真正流行起来，则是在2008年时候，Jon让Sublime Text支持了TextMate的语法高亮分析文件的支持，然后便涌入了大量TextMate的用户。随后，Jon不断对其优化，实现了项目管理，Go to anything等具有象征性意义的功能，而且，那时候，正处于TextMate 2难产的期间。大量用户开始移植TextMate的扩展到Sublime Text，使得Sublime Text的社区支持日渐火爆。生态系统的逐渐完善，使得Sublime Text也逐渐成为风靡全球的编辑器。而它惊艳的外表，也被人戏称「最性感的编辑器」。
+
 连续使用了两年的Sublime Text，不断地学习和尝试中，我也慢慢积累了一些新的技巧。愿结一书，分享给各位。
 
 2014.09.08 于 杭州
