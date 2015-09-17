@@ -9,3 +9,6 @@ Sublime Text 自带了十多种流行的配色方案，例如 Blackboard，Dawn�
 ## 安装第三方配色方案
 
 安装一个配色相当简单，一般第三方的配色都会作为一个 Sublime Text 插件的形式发布，(https://packagecontrol.io/browse/labels/color%20scheme 在 Package Control 官网的这个标签下，便有上百种配色可供选择)，因此，我们只需 Ctrl/CMD + Shift + P 呼出 Package Control，然后按照安装插件的形式，进行搜索和安装即可，当然，你也可以选择自行下载文件到 Sublime Text 的相关目录这种方式。安装完后，配色方案便可以在菜单中找到了。
+
+除了通过菜单，我们当然也可以通过直接编辑配置文件来更改配色方案，其字段名为 `"color_scheme"`，注意配色方案的路径正确即可（本人在这里还是推荐通过菜单去设置配色方案，不容易搞错路径）。
+
