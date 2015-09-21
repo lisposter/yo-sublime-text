@@ -5,3 +5,12 @@
 ### AnvancedNewFile
 
 增强版的新建文件，和自带的区别在于，使用 ANF，路径可以是 Tab 补全，另外，可以自定义一些路径别名，并且可以根据不同平台的系统，补全不同的路径
+
+### All Autocomplete Sublime Text
+
+增强了自带的补全，使得 Sublime 可以搜寻已打开的文件，来推荐补全内容，默认情况下，Sublime 只会补全出现在当前文件中的字词。
+
+
+### AutoFileName
+
+这个插件，可以让你在写路径的时候，帮你补全文件名，这在书写 `<img src="some/path/to/img">` 或者 `background: url(some/path/to/img)` 这样的代码的时候，尤为有用。
