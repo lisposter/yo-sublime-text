@@ -14,3 +14,7 @@
 ### AutoFileName
 
 这个插件，可以让你在写路径的时候，帮你补全文件名，这在书写 `<img src="some/path/to/img">` 或者 `background: url(some/path/to/img)` 这样的代码的时候，尤为有用。
+
+### BracketHighlighter
+
+顾名思义，为各种括号以及引号，HTML 标签对进行匹配和高亮，这在函数式编程的时候会非常方便。
