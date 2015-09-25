@@ -27,3 +27,16 @@
 ### Color Highlighter
 
 如果你是一个前端，那么，你肯定会经常和一大堆颜色值打交道，使用这个插件，可以把类似于 `#02a3c6` 这样的颜色值的真是颜色显示出来，在写样式的时候，就不用来回切浏览器来看这个颜色对应哪个值了。
+
+
+### DocBlockr
+
+这个插件可以让你很轻松的写出如下格式的代码注释：
+
+```js
+/**
+ * [function_name description]
+ * @param  {[type]} argument [description]
+ * @return {[type]}          [description]
+ */
+```
