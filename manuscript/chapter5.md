@@ -40,3 +40,32 @@
  * @return {[type]}          [description]
  */
 ```
+
+### EditorConfig
+
+[EditorConfig](http://editorconfig.org/) 是一个统一编辑器配置的插件，利用这个插件，可以规范特定的项目在每个人的编辑器中采取同样的配置，例如缩进是 tab 还是 space，缩进长度是多少等等。并且使用这个插件并不会永久修改你的编辑器配置，因此，你在这个项目之外的地方，配置还是和你原来的一样。
+
+### Emmet
+
+Emmet 可以说是前端必备的工具了，他曾经的名字是 zen-coding，相信不少人听过了。他提供了大量快捷书写 html，css 代码的方式，例如：
+
+```
+section.nav>ul>li*5>a
+```
+按下 tab 键，可以出来如下的 html：
+
+```html
+<section class="nav">
+    <ul>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+    </ul>
+</section>
+```
+
+### FileDiffs
+
+这个插件可以让你选择两个 tab 的内容进行 diff 操作，很简单却实用的功能。
