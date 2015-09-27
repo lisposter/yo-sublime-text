@@ -69,3 +69,7 @@ section.nav>ul>li*5>a
 ### FileDiffs
 
 这个插件可以让你选择两个 tab 的内容进行 diff 操作，很简单却实用的功能。
+
+### FixMyJs
+
+这个是在 jshint 出品的 fixmyjs 的基础上开发的 Sublime 插件，可以根据你的 .jshintrc 配置来一键修复代码中的 jshint 错误。
