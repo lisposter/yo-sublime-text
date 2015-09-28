@@ -73,3 +73,8 @@ section.nav>ul>li*5>a
 ### FixMyJs
 
 这个是在 jshint 出品的 fixmyjs 的基础上开发的 Sublime 插件，可以根据你的 .jshintrc 配置来一键修复代码中的 jshint 错误。
+
+
+### Git
+
+Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate 进行大部分的 Git 操作。
