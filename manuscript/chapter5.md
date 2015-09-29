@@ -78,3 +78,7 @@ section.nav>ul>li*5>a
 ### Git
 
 Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate 进行大部分的 Git 操作。
+
+### GitGutter
+
+在行号区域显示文件的 git diff 信息，这可以让你很清楚自己对文件修改了什么。
