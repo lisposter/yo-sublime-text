@@ -82,3 +82,7 @@ Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate �
 ### GitGutter
 
 在行号区域显示文件的 git diff 信息，这可以让你很清楚自己对文件修改了什么。
+
+### JavaScriptNext
+
+增强了 JS 的高亮，特别是对 ES 6/ES 2015 的支持。
