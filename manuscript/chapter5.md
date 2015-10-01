@@ -86,3 +86,7 @@ Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate �
 ### JavaScriptNext
 
 增强了 JS 的高亮，特别是对 ES 6/ES 2015 的支持。
+
+### Markdown Extended
+
+对 markdown 语法的增强，可以对类似于标题，代码等进行高亮。
