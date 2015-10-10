@@ -8,7 +8,7 @@ Sublime Text 能有今天的人气，除去她本身优秀的外表之外，也�
 
 ### All Autocomplete Sublime Text
 
-增强了自带的补全，使得 Sublime 可以搜寻已打开的文件，来推荐补全内容，默认情况下，Sublime 只会补全出现在当前文件中的字词。
+增强了自带的补全，使得 Sublime 可以搜寻已打开的文件，来推荐补全内容。在默认情况下，Sublime 只会补全出现在当前文件中的字词。在安装这个插件之后，Sublime 便会在所打开的所有文件中搜索可用于补全当前输入的内容。
 
 
 ### AutoFileName
