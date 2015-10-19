@@ -75,7 +75,7 @@ section.nav>ul>li*5>a
 
 ### FixMyJs
 
-这个是在 jshint 出品的 fixmyjs 的基础上开发的 Sublime 插件，可以根据你的 .jshintrc 配置来一键修复代码中的 jshint 错误。
+这个是在 jshint 出品的 fixmyjs 的基础上开发的 Sublime 插件，可以根据你的 .jshintrc 配置来一键修复代码中的 jshint 错误。虽然处理一些复杂的不规范问题的时候还是欠缺了点，但是，补全一下分号之类的，绰绰有余了。
 
 
 ### Git
