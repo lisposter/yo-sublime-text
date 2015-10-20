@@ -80,7 +80,7 @@ section.nav>ul>li*5>a
 
 ### Git
 
-Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate 进行大部分的 Git 操作。
+Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate 进行大部分的 Git 操作。笔者常用的功能是 Blame，在 Sublime 中使用 Blame，高亮等都舒服。
 
 ### GitGutter
 
