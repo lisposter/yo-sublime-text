@@ -88,7 +88,7 @@ Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate �
 
 ### JavaScriptNext
 
-增强了 JS 的高亮，特别是对 ES 6/ES 2015 的支持。
+增强了 JS 的高亮，特别是对 ES 6/ES 2015 的支持。插件安装完毕，即可使用，一般 js 文件都会直接使用该插件的高亮策略，无需额外的操作。
 
 ### Markdown Extended
 
