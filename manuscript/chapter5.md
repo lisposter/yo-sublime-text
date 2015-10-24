@@ -92,7 +92,7 @@ Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate �
 
 ### Markdown Extended
 
-对 markdown 语法的增强，可以对类似于标题，代码等进行高亮。
+对 markdown 语法的增强，可以对类似于标题，代码等进行高亮。虽然不比 Mou 等实时预览的清晰，但是，习惯使用这个高亮后，其实也挺方便的。
 
 ### Markndown Preview
 
