@@ -96,7 +96,7 @@ Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate �
 
 ### Markndown Preview
 
-快速预览一个 markdown 文件渲染后的结果，可以通过浏览器预览
+快速预览一个 markdown 文件渲染后的结果，可以通过浏览器预览。Markdown 有很多不同语法规则和样式，比如 GitHub 有其特有的一些语法，并且有一套特定的样式，想要知道自己的写的 markdown 是否能以预想的形式显示，最好的方式就是预览一下。
 
 ### SideBarEnhancements
 
