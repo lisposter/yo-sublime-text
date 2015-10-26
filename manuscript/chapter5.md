@@ -100,7 +100,7 @@ Sublime 中最好的 git 集成套件，可以通过 Sublime 的 Command Plate �
 
 ### SideBarEnhancements
 
-增强 Sublime 的侧边栏，增加了大量的操作在右键菜单中，类似于拷贝文件，拷贝路径，新建文件，等等。
+Sublime 自带的侧边栏功能很少，右键菜单中只有一些最基本的操作，在实际操作中，我们往往不够。这个插件能增强 Sublime 的侧边栏，增加了大量的操作在右键菜单中，类似于拷贝文件，拷贝路径，新建文件，等等。
 
 ### SublimeLinter
 
