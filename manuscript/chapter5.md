@@ -109,3 +109,8 @@ Sublime 自带的侧边栏功能很少，右键菜单中只有一些最基本的
 ### Vintageous
 
 比自带的 Vintage 更贴近 Vim 的插件，例如增加了 Command 条等。
+
+
+## 其他
+
+除了这些功能上的插件，在开发中你可能还会使用到一些其他的插件，比如一些语言的插件：sass, less, coffee, typescript 等等，都可以轻松的在 package control 中搜索到，这类插件一般都会具有语言高亮，代码补全提示等功能。
